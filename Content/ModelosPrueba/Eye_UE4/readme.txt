@@ -1,0 +1,1 @@
+Extract to your UE4 game directory
